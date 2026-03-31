@@ -4,7 +4,7 @@ This folder contains MATLAB scripts for bifurcation figures and ODE continuation
 
 ---
 
-## Folder structure
+## Needed folder structure
 
 | Path | Role |
 |------|------|
